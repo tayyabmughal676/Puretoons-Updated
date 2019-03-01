@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/menu_back"
+        android:icon="@drawable/ic_keyboard_arrow_left_black_24dp"
+        android:title="@string/back"/>
+
+    <item
+        android:id="@+id/menu_forward"
+        android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+        android:title="@string/forward"/>
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:title="@string/refresh"/>
+
+    <item
+        android:id="@+id/menu_option"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="@string/categories"/>
+
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PureToons</string>
+    <string name="title_activity_start">PureToons</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about">about</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="refresh">Refresh</string>
+    <string name="categories">categories</string>
+    <string name="home">Home</string>
+
+
+    <string-array name="shopping_item">
+        <item>online</item>
+        <item>download</item>
+    </string-array>
+
+    <string-array name="cartoonsCatergory">
+        <item>Cartoon Series Hindi Dubbed</item>
+        <item>Hindi Cartoon Movies</item>
+        <item>Anime Series</item>
+        <item>Fan Hindi Dubbed</item>
+        <item>Anime Cartoon Wallpapers</item>
+
+
+        <item>Fan Hindi Dubbed Videos</item>
+        <item>Anime Cartoon Songs</item>
+
+    </string-array>
+
+</resources>
